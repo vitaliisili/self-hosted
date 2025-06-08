@@ -1,0 +1,185 @@
+[2025-06-08T02:02:44.625Z] info: kubernetes.yaml was copied to the config folder
+[2025-06-08T02:04:31.905Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:32.044Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:32.047Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:32.049Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:32.053Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:32.055Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:32.056Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:32.058Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:32.061Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:32.065Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:32.069Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:32.074Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:55.062Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:04:55.065Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.412Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.542Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.544Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.546Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.548Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.550Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.552Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.555Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.557Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.559Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.560Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.562Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:00.584Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:13.790Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:06:13.792Z] error: Host validation failed for: localhost:3101. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-06-08T02:07:36.809Z] info: docker.yaml was copied to the config folder
+[2025-06-08T02:07:36.814Z] info: custom.css was copied to the config folder
+[2025-06-08T02:07:36.815Z] info: custom.js was copied to the config folder
+[2025-06-08T02:21:02.765Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:21:02.765Z] error: undefined
+[2025-06-08T02:21:02.786Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:21:02.786Z] error: undefined
+[2025-06-08T02:21:02.882Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:21:02.882Z] error: undefined
+[2025-06-08T02:21:05.285Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:21:05.285Z] error: undefined
+[2025-06-08T02:21:10.354Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:21:10.354Z] error: undefined
+[2025-06-08T02:21:13.885Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:21:13.885Z] error: undefined
+[2025-06-08T02:21:14.002Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:21:14.002Z] error: undefined
+[2025-06-08T02:23:31.861Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:23:31.861Z] error: undefined
+[2025-06-08T02:23:31.933Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:23:31.933Z] error: undefined
+[2025-06-08T02:23:32.033Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:23:32.033Z] error: undefined
+[2025-06-08T02:24:11.088Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:24:11.088Z] error: undefined
+[2025-06-08T02:25:57.821Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:25:57.821Z] error: undefined
+[2025-06-08T02:27:08.059Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:27:08.060Z] error: undefined
+[2025-06-08T02:27:08.135Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:27:08.135Z] error: undefined
+[2025-06-08T02:27:08.257Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:27:08.258Z] error: undefined
+[2025-06-08T02:29:02.814Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:02.814Z] error: undefined
+[2025-06-08T02:29:02.894Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:02.894Z] error: undefined
+[2025-06-08T02:29:03.041Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:03.041Z] error: undefined
+[2025-06-08T02:29:07.368Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:07.368Z] error: undefined
+[2025-06-08T02:29:21.196Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:21.196Z] error: undefined
+[2025-06-08T02:29:21.210Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:21.210Z] error: undefined
+[2025-06-08T02:29:32.999Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:32.999Z] error: undefined
+[2025-06-08T02:29:33.014Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:33.014Z] error: undefined
+[2025-06-08T02:29:33.099Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:33.099Z] error: undefined
+[2025-06-08T02:29:35.351Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:35.351Z] error: undefined
+[2025-06-08T02:29:36.643Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:36.643Z] error: undefined
+[2025-06-08T02:29:37.195Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:37.195Z] error: undefined
+[2025-06-08T02:29:37.307Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:37.308Z] error: undefined
+[2025-06-08T02:29:37.917Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:37.917Z] error: undefined
+[2025-06-08T02:29:38.025Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:38.025Z] error: undefined
+[2025-06-08T02:29:38.513Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:38.513Z] error: undefined
+[2025-06-08T02:29:38.617Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:29:38.617Z] error: undefined
+[2025-06-08T02:31:09.629Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:31:09.629Z] error: undefined
+[2025-06-08T02:31:09.641Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:31:09.641Z] error: undefined
+[2025-06-08T02:31:09.824Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:31:09.824Z] error: undefined
+[2025-06-08T02:32:22.669Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:32:22.669Z] error: undefined
+[2025-06-08T02:32:22.684Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:32:22.684Z] error: undefined
+[2025-06-08T02:32:22.807Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:32:22.807Z] error: undefined
+[2025-06-08T02:32:24.549Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:32:24.549Z] error: undefined
+[2025-06-08T02:32:26.240Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:32:26.240Z] error: undefined
+[2025-06-08T02:32:26.324Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:32:26.324Z] error: undefined
+[2025-06-08T02:32:26.993Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:32:26.993Z] error: undefined
+[2025-06-08T02:32:27.095Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:32:27.095Z] error: undefined
+[2025-06-08T02:32:32.827Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:32:32.827Z] error: undefined
+[2025-06-08T02:35:04.628Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:35:04.628Z] error: undefined
+[2025-06-08T02:35:04.651Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:35:04.651Z] error: undefined
+[2025-06-08T02:35:04.798Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:35:04.798Z] error: undefined
+[2025-06-08T02:35:13.326Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:35:13.326Z] error: undefined
+[2025-06-08T02:35:19.506Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:35:19.506Z] error: undefined
+[2025-06-08T02:38:12.232Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:12.232Z] error: undefined
+[2025-06-08T02:38:12.235Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:12.235Z] error: undefined
+[2025-06-08T02:38:12.389Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:12.389Z] error: undefined
+[2025-06-08T02:38:14.905Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:14.905Z] error: undefined
+[2025-06-08T02:38:20.488Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:20.488Z] error: undefined
+[2025-06-08T02:38:20.491Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:20.491Z] error: undefined
+[2025-06-08T02:38:20.576Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:20.576Z] error: undefined
+[2025-06-08T02:38:21.736Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:21.737Z] error: undefined
+[2025-06-08T02:38:21.836Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:21.836Z] error: undefined
+[2025-06-08T02:38:33.217Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:33.217Z] error: undefined
+[2025-06-08T02:38:33.218Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:33.219Z] error: undefined
+[2025-06-08T02:38:33.305Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-08T02:38:33.305Z] error: undefined
+[2025-06-08T02:45:20.920Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-06-08T02:45:20.926Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-06-08T02:45:21.026Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-06-08T02:45:26.910Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}
+[2025-06-08T02:45:27.029Z] error: <service-helpers> Error getting services from Docker server 'my-docker': [Error: connect EACCES /var/run/docker.sock] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'connect',
+  address: '/var/run/docker.sock'
+}

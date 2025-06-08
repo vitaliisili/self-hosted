@@ -1,0 +1,20 @@
+services:
+  changedetection:
+    image: dgtlmoon/changedetection.io
+    container_name: changedetection
+    restart: unless-stopped
+    environment:
+      - PLAYWRIGHT_DRIVER_URL=${CHANGEDETECTION_PLAYWRIGHT_URL}
+    ports:
+      - "${CHANGEDETECTION_PORT}:5000"
+    volumes:
+      - changedetection-data:/datastore
+    networks:
+      - ${DOCKER_NETWORK}
+
+volumes:
+  changedetection-data:
+
+networks:
+  selfhosted_net:
+    external: true

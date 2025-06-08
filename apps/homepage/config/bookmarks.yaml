@@ -1,0 +1,28 @@
+---
+
+- Social:
+    - Reddit:
+        - icon: reddit.png
+          href: https://reddit.com/
+          description: The front page of the internet
+
+- Entertainment:
+    - YouTube:
+        - abbr: YT
+          href: https://youtube.com/
+          icon: youtube.png
+
+- Documentation:
+    - Docker Docs:
+        - href: https://docs.docker.com/
+          icon: docker.png
+
+    - GitHub:
+        - abbr: GH
+          href: https://github.com/
+          icon: github.png
+- Tools:
+    - Portainer:
+        - abbr: TL
+          href: http://localhost:9000
+          icon: portainer.png

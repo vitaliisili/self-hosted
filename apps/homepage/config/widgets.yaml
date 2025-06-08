@@ -1,0 +1,13 @@
+- resources:
+    cpu: true
+    memory: true
+    disk: /
+    units: metric
+
+- docker:
+    socket: /var/run/docker.sock
+    showStopped: false
+
+- datetime:
+    format: "dddd, MMMM Do YYYY"
+    locale: en

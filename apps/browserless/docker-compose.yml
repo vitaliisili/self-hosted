@@ -1,0 +1,26 @@
+services:
+  browserless:
+    image: browserless/chrome
+    container_name: browserless
+    restart: unless-stopped
+    ports:
+      - "${BROWSERLESS_PORT}:3000"
+    networks:
+      - ${DOCKER_NETWORK}
+    environment:
+      - TOKEN=${BROWSERLESS_TOKEN}
+
+      # Optional recommended performance and stealth settings
+      - SCREENSHOT_TIMEOUT=20000
+      - CONNECTION_TIMEOUT=300000
+      - MAX_CONCURRENT_SESSIONS=5
+      - DEFAULT_LAUNCH_ARGS=["--no-sandbox","--disable-dev-shm-usage","--disable-background-timer-throttling","--disable-renderer-backgrounding","--disable-backgrounding-occluded-windows"]
+
+      - PREBOOT_CHROME=true
+      - FUNCTION_ENABLE_BLOCK_ADS=true
+      - FUNCTION_ENABLE_STEALTH=true
+      - FUNCTION_ENABLE_UNDERSCORE=true
+
+networks:
+  selfhosted_net:
+    external: true

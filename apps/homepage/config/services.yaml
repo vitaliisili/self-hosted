@@ -1,0 +1,23 @@
+- Dashboard:
+      - Homepage:
+            href: http://localhost:3101
+            description: Main dashboard UI
+            icon: homepage.png
+      - Flame:
+            href: http://localhost:5005
+            description: Legacy dashboard
+            icon: flame.png
+      - ChangeDetection:
+            href: http://localhost:5000
+            description: Track website changes
+            icon: changedetection.png
+      - Uptime Kuma:
+            href: http://localhost:3102
+            description: Website monitoring
+            icon: uptime-kuma.png
+
+- Infrastructure:
+      - Browserless:
+            href: http://localhost:3000
+            description: Headless Chrome for screenshots
+            icon: chrome.png

@@ -1,0 +1,15 @@
+services:
+  uptime-kuma:
+    image: louislam/uptime-kuma:1
+    container_name: uptime-kuma
+    volumes:
+      - ./uptime-kuma-data:/app/data
+    ports:
+      - "${KUMA_PORT}:3001"
+    restart: unless-stopped
+    networks:
+      - ${DOCKER_NETWORK}
+
+networks:
+  selfhosted_net:
+    external: true

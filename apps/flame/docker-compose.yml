@@ -1,0 +1,21 @@
+services:
+  flame:
+    image: pawelmalak/flame:latest
+    container_name: flame
+    restart: unless-stopped
+    ports:
+      - "${FLAME_PORT}:5005"
+    environment:
+      - PASSWORD=${FLAME_PASSWORD}
+      - TITLE=${FLAME_TITLE}
+    volumes:
+      - flame_data:/app/data
+    networks:
+      - ${DOCKER_NETWORK}
+
+volumes:
+  flame_data:
+
+networks:
+  selfhosted_net:
+    external: true

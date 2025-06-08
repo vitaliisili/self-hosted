@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  homepage:
+    image: ghcr.io/gethomepage/homepage:latest
+    container_name: homepage
+    restart: unless-stopped
+    ports:
+      - "${HOMEPAGE_PORT}:3000"
+    volumes:
+      - ./config:/app/config:rw
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - HOMEPAGE_ALLOWED_HOSTS=${HOMEPAGE_ALLOWED_HOSTS}
+      - PUID=${PUID}
+      - PGID=${PGID}
+    networks:
+      - ${DOCKER_NETWORK}
+
+networks:
+  selfhosted_net:
+    external: true
